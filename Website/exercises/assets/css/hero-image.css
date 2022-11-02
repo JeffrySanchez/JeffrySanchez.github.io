@@ -59,6 +59,7 @@ body {
 
 .hero-text-container { 
   
+  z-index: 1;
   padding: 0 12% 4% 12%;
 
 }

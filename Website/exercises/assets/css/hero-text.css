@@ -27,7 +27,12 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: gray;
+    background-color: darkred;
+    /* Purple to orange - modern degradant */
+    background-image: linear-gradient(90deg,#ff00cc,#333399); 
+      /* dark Blue degradant */ 
+      background-image: linear-gradient(90deg,#07092f,#165cc0);
+      
 }
 
 @media (min-width: 768px) { 
